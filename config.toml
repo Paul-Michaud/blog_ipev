@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://blog-ipev.pages.dev"
 title   = "Timeline"
 languageCode = "en-us"
 theme = "timeline"

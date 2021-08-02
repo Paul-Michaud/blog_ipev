@@ -1,6 +1,6 @@
 baseURL = "https://blog-ipev.pages.dev"
 title   = "[Paul au Pôle]"
-languageCode = "en-us"
+languageCode = "fr-fr"
 theme = "timeline"
 
 PygmentsCodeFences = true
@@ -70,7 +70,7 @@ disableHugoGeneratorInject = false
   # There are a lot of buttons preconfigured. If you want to change them,
   # generate the buttons here: https://sharingbuttons.io
   # and add them into your own `layouts/partials/sharing-buttons.html`
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -96,15 +96,11 @@ disableHugoGeneratorInject = false
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
-    logoCursorColor    = "#00ff00"
+    logoCursorColor    = "#00a500"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     logoCursorAnimate  = "2s"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "#"
-
   [[params.social]]
     name = "instagram"
     url  = "https://www.instagram.com/paulmchd/"
@@ -120,12 +116,12 @@ disableHugoGeneratorInject = false
 [languages]
   [languages.en]
     subtitle  = "Timeline"
-    weight    = 1
+    weight    = 2
     copyright = '<a href="https://github.com/s4n7h0/hugo-theme-timeline/blob/main/LICENSE" target="_blank" rel="noopener">MIT</a>'
 
   [languages.fr]
     subtitle  = "Timeline"
-    weight    = 2
+    weight    = 1
     copyright = '<a href="https://github.com/s4n7h0/hugo-theme-timeline/blob/main/LICENSE" target="_blank" rel="noopener">MIT</a>'
 
 [menu]

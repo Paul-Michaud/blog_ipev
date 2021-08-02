@@ -1,0 +1,14 @@
+<footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; {{ now.Format "2006" }}</span>
+            {{ if .Site.Author.name }}
+                <span><a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a></span>
+            {{ end }}
+            {{ partial "social-icons.html" . }}
+            {{ if .Site.Copyright }}
+                <span>{{ .Site.Copyright| safeHTML }}</span>
+            {{ end }} 
+        </div>
+    </div> 
+</footer>

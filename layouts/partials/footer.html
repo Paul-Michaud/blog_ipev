@@ -5,10 +5,10 @@
             {{ if .Site.Author.name }}
                 <span><a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a></span>
             {{ end }}
-            {{ partial "social-icons.html" . }}
             {{ if .Site.Copyright }}
                 <span>{{ .Site.Copyright| safeHTML }}</span>
             {{ end }} 
         </div>
+        {{ partial "social-icons.html" . }}
     </div> 
 </footer>

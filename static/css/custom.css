@@ -5,3 +5,7 @@
     border: 1px solid var(--border-color);
     max-width: 800px;
 }
+
+.date {
+    background: #00ff00;
+}

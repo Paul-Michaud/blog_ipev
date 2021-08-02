@@ -1,5 +1,5 @@
 baseURL = "https://blog-ipev.pages.dev"
-title   = "Timeline"
+title   = "[Paul au Pôle]"
 languageCode = "en-us"
 theme = "timeline"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "timeline"
+  name = "Paul Michaud"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -48,10 +48,10 @@ disableHugoGeneratorInject = false
   series   = "series"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  dateform        = "2 Jan 2006"
+  dateformShort   = "2 Jan"
+  dateformNum     = "02-01-2006"
+  dateformNumTime = "02-01-2006 15:04 -0700"
 
   # Metadata mostly used in document's head
   description = "Timeline hugo template for your work experience, researches, achievement and more"
@@ -96,9 +96,9 @@ disableHugoGeneratorInject = false
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
+    logoCursorColor    = "#00ff00"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "2s"
+    logoCursorAnimate  = "2s"
 
   # Social icons
   [[params.social]]
@@ -107,33 +107,21 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "instagram"
-    url  = "#"
-
-  [[params.social]]
-    name = "facebook"
-    url  = "#"
+    url  = "https://www.instagram.com/paulmchd/"
 
   [[params.social]]
     name = "linkedin"
-    url  = "#"
+    url  = "https://www.linkedin.com/in/paul-michaud-095847101/"
 
   [[params.social]]
     name = "github"
-    url  = "#"
-
-  [[params.social]]
-    name = "reddit"
-    url  = "#"
-
-  [[params.social]]
-    name = "keybase"
-    url  = "#"
+    url  = "https://github.com/Paul-Michaud"
 
 [languages]
   [languages.en]
     subtitle  = "Timeline"
     weight    = 1
-    copyright = ''
+    copyright = '<a href="https://github.com/s4n7h0/hugo-theme-timeline/blob/main/LICENSE" target="_blank" rel="noopener">MIT</a>'
 
   [languages.fr]
     subtitle  = "Timeline"

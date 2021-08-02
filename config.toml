@@ -1,4 +1,4 @@
-baseURL = "https://blog-ipev.pages.dev"
+baseURL = "https://pole.michaud.bzh"
 title   = "[Paul au Pôle]"
 languageCode = "fr-fr"
 theme = "timeline"

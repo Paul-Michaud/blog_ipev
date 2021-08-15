@@ -3,7 +3,6 @@
 
 
 <main class="posts">
-    <h1>{{ .Title }}</h1>
 
     {{ if .Content }}
     <div class="content">{{ .Content }}</div>
@@ -18,7 +17,10 @@
 
             <div class="timeline-content js--fadeInLeft">
                 <h2><a href="{{.Permalink}}"><span class="post-title">{{.Title}}</span></a></h2>
-                <div class="date">{{ .Date.Format "2 Jan 2006"}}</div>
+                {{ $month_names := slice "Janvier" "Février" "Mars" "Avril" "Mai" "Juin" "Juillet" "Août" "Septembre" "Octobre" "Novembre" "Décembre" }}
+                {{ $month := sub .Date.Month 1 }}
+                
+                <div class="date">{{ .Date.Day }} {{ index $month_names $month }} {{ .Date.Year }}</div>
                 <p>
                     {{.Params.Eventname}}<br>
                     {{.Params.Eventlocation}}

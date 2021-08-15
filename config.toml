@@ -1,6 +1,7 @@
 baseURL = "https://pole.michaud.bzh"
 title   = "[Paul au Pôle]"
 languageCode = "fr-fr"
+defaultContentLanguage = "fr"
 theme = "timeline"
 
 PygmentsCodeFences = true
@@ -114,11 +115,6 @@ disableHugoGeneratorInject = false
     url  = "https://github.com/Paul-Michaud"
 
 [languages]
-  [languages.en]
-    subtitle  = "Timeline"
-    weight    = 2
-    copyright = '<a href="https://github.com/s4n7h0/hugo-theme-timeline/blob/main/LICENSE" target="_blank" rel="noopener">MIT</a>'
-
   [languages.fr]
     subtitle  = "Timeline"
     weight    = 1

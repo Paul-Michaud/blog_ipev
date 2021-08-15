@@ -116,7 +116,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.fr]
-    subtitle  = "Timeline"
+    subtitle  = ""
     weight    = 1
     copyright = '<a href="https://github.com/s4n7h0/hugo-theme-timeline/blob/main/LICENSE" target="_blank" rel="noopener">MIT</a>'
 

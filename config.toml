@@ -126,7 +126,11 @@ disableHugoGeneratorInject = false
     name       = "Timeline"
     url        = "timeline/"
     weight     = 1
- 
+   [[menu.main]]
+    identifier = "portfolio"
+    name       = "Portfolio"
+    url        = "https://paul.michaud.bzh/"
+    weight     = 2
 
 [markup]
   defaultMarkdownHandler = "goldmark"

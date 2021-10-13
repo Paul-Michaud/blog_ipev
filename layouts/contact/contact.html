@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ $contactPage := index $.Pages 0 }}
+
+<main class="posts">
+    {{ $contactPage.Title }}
+
+
+
+    <section class="contact">
+      <div class="container" style="text-align: left!important">
+        {{ if $contactPage.Content }}
+        <div class="content">{{ $contactPage.Content }}</div>
+        {{ end }}
+  
+    </div>
+</section>
+
+
+
+</main>
+{{ end }}

@@ -2,12 +2,8 @@
 {{ $contactPage := index $.Pages 0 }}
 
 <main class="posts">
-    {{ $contactPage.Title }}
-
-
-
     <section class="contact">
-      <div class="container" style="text-align: left!important">
+      <div class="container" style="text-align: justify">
         {{ if $contactPage.Content }}
         <div class="content">{{ $contactPage.Content }}</div>
         {{ end }}

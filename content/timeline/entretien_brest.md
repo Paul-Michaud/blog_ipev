@@ -7,6 +7,9 @@ type:
 - post
 - posts
 title: Entretien à Brest
+titleColor: black
+subTitlecolor: black
+backgroundImage: /miniature_entretien_ipev.jpg
 eventname: Recrutement 
 eventlocation: Brest
 weight: 10

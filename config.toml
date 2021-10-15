@@ -75,11 +75,11 @@ disableHugoGeneratorInject = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  customCSS = ["css/custom.css"]
+  customCSS = ["/css/custom.css"]
   customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  justifyContent = false  # Set "text-align: justify" to .post-content.
+  justifyContent = true  # Set "text-align: justify" to .post-content.
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
@@ -126,11 +126,16 @@ disableHugoGeneratorInject = false
     name       = "Timeline"
     url        = "timeline/"
     weight     = 1
+  [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "contact/"
+    weight     = 2
    [[menu.main]]
     identifier = "portfolio"
     name       = "Portfolio"
     url        = "https://paul.michaud.bzh/"
-    weight     = 2
+    weight     = 3
 
 [markup]
   defaultMarkdownHandler = "goldmark"

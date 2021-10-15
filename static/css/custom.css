@@ -5,3 +5,21 @@
     border: 1px solid var(--border-color);
     max-width: 800px;
 }
+
+#contact.content {
+    align-items: inherit;
+}
+
+section {
+    padding: 0px 0;
+}
+
+/* List */
+.posts {
+    max-width: 1000px;
+}
+
+/* Single */
+.post {
+    max-width: 1000px;
+}

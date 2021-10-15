@@ -1,19 +1,14 @@
 ---
 author:
   name: "Paul Michaud"
-date: 2021-09-15
+date: 2021-10-15
 linktitle: Contact
-type:
-- post
-- posts
 title: Contact
-eventname: Recrutement 
-eventlocation: Brest
-weight: 10
+
 ---
 # Contact
 
-Jusqu’au 10 Novembre, vous pouvez me contacte via : `paul.du56@gmail.com`
+Jusqu’au 10 Novembre, vous pouvez me contacter via : `paul.du56@gmail.com`
 
 A partir du 19 Novembre (Environ) à l'adresse suivante : `paul.michaud@ddu.ipev.fr` (Maximum 7Mo de pièce jointe)
 
@@ -30,7 +25,7 @@ BP 17615 Cargo 9
 ```
 
 Il faut faire l'affranchissement pour la France métropolitaine (Avec [colissimo](https://www.laposte.fr/tarif-colissimo) pour les colis par exemple). Vous pouvez envoyer presque tout, il faut simplement éviter les denrées périssables (ou ne supportant pas un long voyage), vivantes et les plantes/fleurs/graines/...
-Pensez à bien protéger ce qui peut-être fragile, comme les bouteilles par exemple (exemple au hasard bien sûr).
+Pensez à bien protéger ce qui peut être fragile, comme les bouteilles par exemple (exemple au hasard bien sûr).
 
 Voici les dates de passage du facteur :
 

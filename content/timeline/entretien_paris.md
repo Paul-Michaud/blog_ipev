@@ -7,6 +7,9 @@ type:
 - post
 - posts
 title: Entretiens médicaux et psychologiques
+titleColor: white
+subTitlecolor: white
+backgroundImage: /miniature_entretien_paris.jpg
 eventname: Recrutement
 eventlocation: Paris
 weight: 10

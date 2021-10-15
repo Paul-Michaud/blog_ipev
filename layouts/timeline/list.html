@@ -14,18 +14,19 @@
 
         <div class="timeline-item">
             <div class="timeline-img"></div>
+            <a href="{{.Permalink}}">
+                <div class="timeline-content js--fadeInLeft" style="background-size: cover; background-repeat: no-repeat ;background-image: url({{.Params.backgroundImage}});">
+                    <h2><span class="post-title" style="color: {{.Params.titleColor}};">{{.Title}}</span></h2>
+                    {{ $month_names := slice "Janvier" "Février" "Mars" "Avril" "Mai" "Juin" "Juillet" "Août" "Septembre" "Octobre" "Novembre" "Décembre" }}
+                    {{ $month := sub .Date.Month 1 }}
+                    <div class="date">{{ .Date.Day }} {{ index $month_names $month }} {{ .Date.Year }}</div>
+                    <p style="color: {{.Params.subTitleColor}};">
+                        {{.Params.Eventname}}<br>
+                        {{.Params.Eventlocation}}
 
-            <div class="timeline-content js--fadeInLeft">
-                <h2><a href="{{.Permalink}}"><span class="post-title">{{.Title}}</span></a></h2>
-                {{ $month_names := slice "Janvier" "Février" "Mars" "Avril" "Mai" "Juin" "Juillet" "Août" "Septembre" "Octobre" "Novembre" "Décembre" }}
-                {{ $month := sub .Date.Month 1 }}
-                <div class="date">{{ .Date.Day }} {{ index $month_names $month }} {{ .Date.Year }}</div>
-                <p>
-                    {{.Params.Eventname}}<br>
-                    {{.Params.Eventlocation}}
-
-                </p> 
-            </div>
+                    </p> 
+                </div>
+            </a>
         </div>  
         {{ end }}   
     </div>

@@ -10,16 +10,47 @@
     align-items: inherit;
 }
 
+#contact.container {
+    margin: 20px;
+}
+
+#apropos.content {
+    align-items: inherit;
+}
+
+#apropos.container {
+    margin: 20px;
+}
+
 section {
     padding: 0px 0;
+    background-color: #252627c8;
+    border-radius: 10px;
 }
 
 /* List */
 .posts {
     max-width: 1000px;
+
 }
 
 /* Single */
 .post {
     max-width: 1000px;
+    background-color: #252627c8;
+    border-radius: 10px;
+    text-align: justify;
 }
+
+.menu {
+    border-right: none;
+}
+
+.timeline-item {
+    margin: 20px;
+}
+
+div.timeline-item a { 
+    text-decoration: none;
+}
+

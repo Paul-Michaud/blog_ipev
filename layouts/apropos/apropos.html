@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{ $aproposPage := index $.Pages 0 }}
+
+<main class="posts">
+    <section class="apropos">
+        <div id="apropos" class="container" style="text-align: justify">
+            {{ if $aproposPage.Content }}
+            <div id="apropos" class="content">{{ $aproposPage.Content }}</div>
+            {{ end }}
+        </div>
+    </section>
+</main>
+
+{{ end }}

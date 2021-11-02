@@ -43,6 +43,7 @@ Une fois le CV et la lettre de motivation bien envoyés, j'ai attendu 2 jours av
 | *Extrait du dit questionnaire* |
 
 </center>
+
 ### Seconde partie : Test technique et entretien individuel
 
 Puis 1 mois plus tard, le 17 février, j'ai reçu un mail m'indiquant que j'avais été sélectionné par le jury pour passer un entretien en présentiel à Plouzané (près de Brest) au siège de l'institut polaire, première étape validée ! Même pendant la période covid l'entretien ne pouvait se faire à distance. Le mail comportait également un nouveau questionnaire à remplir, avec cette fois des questions un peu différentes, demandant plus de réflexion que les précédents. Les questions portaient par exemple sur l'ordre des choix que j'avais fait, si j'avais déjà vécu en collectivité et ce que j'en avais retiré, comment est-ce que j'imaginais la vie en hivernage, est-ce que j'appréhendai le voyage, etc.
@@ -64,13 +65,50 @@ L'entretien a commencé par une partie plutôt classique, présentation de moi, 
 En sortant, ils m'ont indiqué que j'aurais une réponse sous une semaine. Mais dès le lendemain, j'ai été appelé disant que j'avais été accepté pour passer les tests médicaux et psychologiques, soulagement !
 
 ### Troisième partie : Entretien médicaux et psychologiques
+
 <center>
 
-![recrutement_3.png](/timeline/recrutement/recrutement_3.png)
+| ![recrutement_4.png](/timeline/recrutement/recrutement_4.png) | 
+|:--:| 
+| *Dossier médical de quelques pages* |
 
 </center>
+
+Les tests médicaux avaient lieu le matin du 7 avril au [CMETE](https://www.google.com/maps/place/CMETE+-+M%C3%A9decine+de+voyages/@48.8635484,2.3402375,15z/data=!4m2!3m1!1s0x0:0x2d04b28c54229fa8?sa=X&ved=2ahUKEwjc4dDGyPjzAhVzwjgGHeV6CzUQ_BJ6BAhDEAU) dans le centre de Paris. Il fallait au préalable remplir un dossier de santé assez conséquent. Je fus très content d'y retrouver Luc, avec qui j'avais discuté lors des entretiens. 
+
+Plusieurs tests ont été réalisés au CMETE : 
+
+- Électrocardiogramme
+- Radio des poumons
+- Audiogramme
+- Test de vue
+- Test d’urine
+- Prise de sang (un peu trop de tubes à mon goût)
+- Entretien avec un médecin
+
+En plus des rendez-vous chez le dentiste et l'ophtalmo qu'il fallait que je réalise au préalable. 
+
+L'après-midi était consacré aux tests psychologiques, une première partie en questionnaires puis un ~~très~~ long entretien avec un psychologue. J'étais assez sceptique en sortant, difficile de savoir comment la personne en face nous a perçues après avoir exposé toute sa vie.
+
+Les résultats sont arrivés le 12 avril, soulagement, j'étais en parfaite santé ! Mais ce n'était pas la fin du recrutement, l'institut polaire envoie plus de candidats aux tests médicaux que nécessaire, au cas où certains ne seraient pas aptes. Cette année, nous étions 6, et les 6 étaient aptes !
+
 ### Quatrième partie : Attente
 
+<center>
 
+![recrutement_5.png](/timeline/recrutement/recrutement_5.png)
 
+</center>
 
+Il a donc fallu s'armer de patience, je savais en lisant des blogs que la réponse ne serait pas immédiate, et effectivement elle est arrivée 1 mois et demi plus tard. J'ai été appelé 5 jours avant mon anniversaire, on me demandait si j'étais toujours intéressé par le poste de VSC informaticien pour l'institut polaire (j'ai trouvé la demande un peu étrange), j'ai bien évidemment dit oui avant qu'on m'annonce que j'étais accepté sur la station de Dumont d'Urville en Terre Adélie, j'étais donc accepté et en plus sur mon premier choix ! C'est peu dire que j'étais content !
+
+<center>
+
+| ![recrutement_6.png](/timeline/recrutement/recrutement_6.png) | 
+|:--:| 
+| *Surement le mail auquel j'ai répondu le plus rapidement cette année* |
+
+</center>
+
+<br />
+Le recrutement s'arrête ici, mais l'aventure ne fait que commencer !

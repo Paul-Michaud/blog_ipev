@@ -7,8 +7,8 @@ type:
 - post
 - posts
 title: Recrutement
-titleColor: black
-subTitlecolor: black
+titleColor: "#3b3d42"
+subTitlecolor: "#3b3d42"
 backgroundImage: /timeline/recrutement/miniature_recrutement.jpg
 eventlocation: 48.3601,-4.5626
 weight: 10

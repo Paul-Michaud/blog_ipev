@@ -54,3 +54,20 @@ div.timeline-item a {
     text-decoration: none;
 }
 
+/* Index text color */
+div.index-content.framed {
+    color: #3b3d42;
+}
+
+/* Index voir color */
+a.read-more.button {
+    color: #c3c3ce;
+}
+
+/* index footer */
+div.footer__inner {
+    color: #c3c3ce"
+}
+div.footer__content {
+    color: #c3c3ce"
+}

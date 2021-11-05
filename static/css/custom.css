@@ -6,6 +6,7 @@
     max-width: 800px;
 }
 
+/* contact page */
 #contact.content {
     align-items: inherit;
 }
@@ -14,11 +15,23 @@
     margin: 20px;
 }
 
+/* apropos page */
+
 #apropos.content {
     align-items: inherit;
 }
 
 #apropos.container {
+    margin: 20px;
+}
+
+/* ressources page */
+
+#ressources.content {
+    align-items: inherit;
+}
+
+#ressources.container {
     margin: 20px;
 }
 

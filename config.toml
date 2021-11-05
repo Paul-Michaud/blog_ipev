@@ -141,6 +141,11 @@ disableHugoGeneratorInject = false
     name       = "Portfolio"
     url        = "https://paul.michaud.bzh/"
     weight     = 4
+  [[menu.main]]
+    identifier = "ressources"
+    name       = "Ressources"
+    url        = "ressources/"
+    weight     = 5
 
 [markup]
   defaultMarkdownHandler = "goldmark"

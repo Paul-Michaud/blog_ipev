@@ -29,6 +29,6 @@ Pensez à bien protéger ce qui peut être fragile, comme les bouteilles par exe
 
 Voici les dates de passage du facteur :
 
-![Calendrier des dépêches postales](/calendrier_depeches_postales.png)
+![Calendrier des dépêches postales](/contact/calendrier_depeches_postales.webp)
 
 Il passe 5 fois pendant l'année (pendant l'été même), donc si par exemple vous souhaitez envoyer un colis via la rotation R3, il faut que celui-ci soit arrivé à Roissy pour le 21 Décembre 2021, c'est-à-dire envoyer le colissimo vers le 14 Décembre.

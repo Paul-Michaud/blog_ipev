@@ -22,7 +22,7 @@ Je pars sur la station Dumont d'Urville, à environ 17 000 kilomètres à vol d'
 
 <center>
 
-![worldmap.png](/apropos/worldmap.png)
+![worldmap.png](/apropos/worldmap.webp)
 
 </center>
 

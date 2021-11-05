@@ -9,37 +9,39 @@ type:
 title: Préparation des malles
 titleColor: "#c3c3ce"
 subTitlecolor: "#c3c3ce"
-backgroundImage: /timeline/malles/miniature_malles.png
+backgroundImage: /timeline/malles/miniature_malles.webp
 eventlocation: 48.1072,-1.7131
 weight: 10
 ---
 
-Quelques jours après mon acceptation, j'ai reçu un mail m'indiquant que j'avais la possibilité de préparer 3 malles de 40 kilos chacune et qu'elles devaient être arrivées à l'institut polaire pour le 20 juillet. Intéressant, mais qu'est-ce que je mets dedans moi ? Heureusement, quelques jours plus tard, j'ai reçu le guide de l'antarctique, un document décrivant plein de choses sur l'antarctique, les stations, le climat, les règles, etc. Il contenait également beaucoup d'informations sur ce qu'il était utile ou non de prendre. En plus de ça, les hivernants de la TA71 (Terre Adélie 71, nos prédécesseurs, je ferai partie de TA72) nous avaient concocté un petit guide rempli de conseils.
+Quelques jours après mon acceptation, j'ai reçu un mail m'indiquant que j'avais la possibilité de préparer 3 malles de 40 kilos chacune et qu'elles devaient être arrivées à l'institut polaire pour le 20 juillet. Intéressant, mais qu'est-ce que je mets dedans moi ? 
+
+Heureusement, quelques jours plus tard, j'ai reçu le guide de l'antarctique, un document décrivant plein de choses sur l'antarctique, les stations, le climat, les règles, etc. Il contenait également beaucoup d'informations sur ce qu'il était utile ou non de prendre. En plus de ça, les hivernants de la TA71 (Terre Adélie 71, nos prédécesseurs, je ferai partie de TA72) nous avaient concocté un petit guide rempli de conseils.
 
 
 <center>
 
-| ![malles_1.png](/timeline/malles/malles_1.png) | 
+| ![malles_1](/timeline/malles/malles_1.webp) | 
 |:--:| 
 | *Grand merci à eux :yellow_heart:* |
 
 </center>
 
-Avec ces informations, j'avais une bonne idée de ce que je devais prendre, restait plus qu'à décider des quantités, combien de brosse à dents ou de shampoing est-ce que vous utilisez pendant un an ? Moi non plus je ne savais pas, donc ça s'est fait un peu à la one again. Pour le reste j'avais déjà quelques équipements pour le froid grâce à mon année au Canada, ce qui a permis de réduire les dépenses, car ces 4 semaines de préparation de malles ont fait transpirer ma carte bleue (merci la prime de départ).
+Avec ces informations, j'avais une bonne idée de ce que je devais prendre, restait plus qu'à décider des quantités, combien de brosse à dents ou de shampoing est-ce que vous utilisez pendant un an ? Moi non plus je ne savais pas, donc ça s'est fait un peu à la one again. Pour le reste j'avais déjà quelques équipements pour le froid grâce à mon année au Canada, ce qui a permis de réduire un peu les dépenses, car ces 4 semaines de préparation de malles ont fait transpirer ma carte bleue (merci la prime de départ).
 
 <center>
 
-| ![malles_2.png](/timeline/malles/malles_2.png) | 
+| ![malles_2](/timeline/malles/malles_2.webp) | 
 |:--:| 
 | *Extrait de ma liste (Ne pas hésiter à demander des conseils à son prédécesseur)* |
 
 </center>
 
-Une fois les choses utiles achetées et il me restait pas mal de place, j'ai donc acheté quelques friandises sur les conseils avisés de mon prédécesseur.
+Une fois les choses utiles récupérées il me restait pas mal de place (120 kilos c'est beaucoup !), j'ai donc acheté quelques friandises sur les conseils avisés de mon prédécesseur.
 
 <center>
 
-| ![malles_3.png](/timeline/malles/malles_3.png) | 
+| ![malles_3](/timeline/malles/malles_3.webp) | 
 |:--:| 
 | *Pour ne pas perdre trop de kilos pendant l'hiver* |
 
@@ -49,6 +51,6 @@ Une fois tout bien emballé, pesé, cadenassé et étiquetté un transporteur es
 
 <center>
 
-![malles_4.jpg](/timeline/malles/malles_4.jpg)
+![malles_4](/timeline/malles/malles_4.webp)
 
 </center>

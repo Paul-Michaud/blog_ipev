@@ -9,7 +9,7 @@ type:
 title: Recrutement
 titleColor: "#3b3d42"
 subTitlecolor: "#3b3d42"
-backgroundImage: /timeline/recrutement/miniature_recrutement.jpg
+backgroundImage: /timeline/recrutement/miniature_recrutement.webp
 eventlocation: 48.3601,-4.5626
 weight: 10
 ---
@@ -29,7 +29,7 @@ J'ai reçu une réponse rapidement :
 
 <center>
 
-| ![recrutement_1.png](/timeline/recrutement/recrutement_1.png) | 
+| ![recrutement_1](/timeline/recrutement/recrutement_1.webp) | 
 |:--:| 
 | *C'est le site qui a surement buggé :smirk:* |
 
@@ -38,7 +38,7 @@ J'ai reçu une réponse rapidement :
 Une fois le CV et la lettre de motivation bien envoyés, j'ai attendu 2 jours avant d'avoir une nouvelle réponse, un nouveau questionnaire à remplir avec des questions sur mes connaissances en informatique et en électronique :
 <center>
 
-| ![recrutement_2.png](/timeline/recrutement/recrutement_2.png) | 
+| ![recrutement_2](/timeline/recrutement/recrutement_2.webp) | 
 |:--:| 
 | *Extrait du dit questionnaire* |
 
@@ -68,7 +68,7 @@ En sortant, ils m'ont indiqué que j'aurais une réponse sous une semaine. Mais 
 
 <center>
 
-| ![recrutement_4.png](/timeline/recrutement/recrutement_4.png) | 
+| ![recrutement_3](/timeline/recrutement/recrutement_3.webp) | 
 |:--:| 
 | *Dossier médical de quelques pages* |
 
@@ -96,7 +96,7 @@ Les résultats sont arrivés le 12 avril, soulagement, j'étais en parfaite sant
 
 <center>
 
-![recrutement_5.png](/timeline/recrutement/recrutement_5.png)
+![recrutement_4](/timeline/recrutement/recrutement_4.webp)
 
 </center>
 
@@ -104,7 +104,7 @@ Il a donc fallu s'armer de patience, je savais en lisant des blogs que la répon
 
 <center>
 
-| ![recrutement_6.png](/timeline/recrutement/recrutement_6.png) | 
+| ![recrutement_5](/timeline/recrutement/recrutement_5.webp) | 
 |:--:| 
 | *Surement le mail auquel j'ai répondu le plus rapidement cette année* |
 

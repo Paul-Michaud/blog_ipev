@@ -88,7 +88,7 @@ Plusieurs tests ont été réalisés au CMETE :
 
 En plus des rendez-vous chez le dentiste et l'ophtalmo qu'il fallait que je réalise au préalable. 
 
-L'après-midi était consacré aux tests psychologiques, une première partie en questionnaires puis un ~~très~~ long entretien avec un psychologue. J'étais assez sceptique en sortant, difficile de savoir comment la personne en face nous a perçues après avoir exposé toute sa vie.
+L'après-midi était consacré aux tests psychologiques, une première partie en questionnaires puis un ~~très~~ long entretien avec un psychologue. J'étais assez sceptique en sortant, difficile de savoir comment la personne en face nous a perçue après avoir exposé toute sa vie.
 
 Les résultats sont arrivés le 12 avril, soulagement, j'étais en parfaite santé ! Mais ce n'était pas la fin du recrutement, l'institut polaire envoie plus de candidats aux tests médicaux que nécessaire, au cas où certains ne seraient pas aptes. Cette année, nous étions 6, et les 6 étaient aptes !
 

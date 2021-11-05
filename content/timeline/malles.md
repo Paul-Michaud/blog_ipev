@@ -14,7 +14,7 @@ eventlocation: 48.1072,-1.7131
 weight: 10
 ---
 
-Quelques jours après mon acceptation, j'ai reçu un mail m'indiquant que j'avais la possibilité de préparer 3 malles de 40 kilos chacune et qu'elles devaient être arrivées à l'institut polaire pour le 20 juillet. Intéressant, mais qu'est-ce que je mets dedans moi ? Heureusement, quelques jours plus tard, j'ai reçu le guide de l'antarctique, un document décrivant plein de choses sur l'antarctique, les bases, le climat, les règles, etc. Il contenait également beaucoup d'informations sur ce qu'il était utile ou non de prendre. En plus de ça, les hivernants de la TA71 (Terre Adélie 71, nos prédécesseurs, je ferai partie de TA72) nous avaient concocté un petit guide rempli de conseils.
+Quelques jours après mon acceptation, j'ai reçu un mail m'indiquant que j'avais la possibilité de préparer 3 malles de 40 kilos chacune et qu'elles devaient être arrivées à l'institut polaire pour le 20 juillet. Intéressant, mais qu'est-ce que je mets dedans moi ? Heureusement, quelques jours plus tard, j'ai reçu le guide de l'antarctique, un document décrivant plein de choses sur l'antarctique, les stations, le climat, les règles, etc. Il contenait également beaucoup d'informations sur ce qu'il était utile ou non de prendre. En plus de ça, les hivernants de la TA71 (Terre Adélie 71, nos prédécesseurs, je ferai partie de TA72) nous avaient concocté un petit guide rempli de conseils.
 
 
 <center>
@@ -25,7 +25,7 @@ Quelques jours après mon acceptation, j'ai reçu un mail m'indiquant que j'avai
 
 </center>
 
-Avec ces informations, j'avais une bonne idée de ce que je devais prendre, restait plus qu'à décider des quantités, combien de brosse à dents ou de shampoing est-ce que vous utilisez pendant un an ? Moi non plus je ne savais pas, donc ça s'est fait un peu à one again. Pour le reste j'avais déjà quelques équipements pour le froid grâce à mon année au Canada, ce qui a permis de réduire les dépenses, car ces 4 semaines de préparation de malles ont fait transpirer ma carte bleue (merci la prime de départ).
+Avec ces informations, j'avais une bonne idée de ce que je devais prendre, restait plus qu'à décider des quantités, combien de brosse à dents ou de shampoing est-ce que vous utilisez pendant un an ? Moi non plus je ne savais pas, donc ça s'est fait un peu à la one again. Pour le reste j'avais déjà quelques équipements pour le froid grâce à mon année au Canada, ce qui a permis de réduire les dépenses, car ces 4 semaines de préparation de malles ont fait transpirer ma carte bleue (merci la prime de départ).
 
 <center>
 

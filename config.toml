@@ -55,11 +55,11 @@ disableHugoGeneratorInject = false
   dateformNumTime = "02-01-2006 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Timeline hugo template for your work experience, researches, achievement and more"
-  keywords = "timeline hugo template"
+  description = "Blog relatant mes aventures en Antarctique"
+  keywords = "blog paul antarctique"
   images = [""]
 
-  homeSubtitle = "timeline template for hugo"
+  homeSubtitle = ""
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""

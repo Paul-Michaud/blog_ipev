@@ -114,6 +114,10 @@ disableHugoGeneratorInject = false
     name = "github"
     url  = "https://github.com/Paul-Michaud"
 
+ [[params.social]]
+    name = "rss"
+    url  = "https://pole.michaud.bzh/index.xml"
+
 [languages]
   [languages.fr]
     subtitle  = ""

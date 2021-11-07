@@ -10,8 +10,12 @@ title: Préparation des malles
 titleColor: "#c3c3ce"
 subTitlecolor: "#c3c3ce"
 backgroundImage: /timeline/malles/miniature_malles.webp
-eventlocation: 48.1072,-1.7131
+eventlocation: 
+- 48.1072,-1.7131
 weight: 10
+tags:
+- rennes
+- malles
 ---
 
 Quelques jours après mon acceptation, j'ai reçu un mail m'indiquant que j'avais la possibilité de préparer 3 malles de 40 kilos chacune et qu'elles devaient être arrivées à l'institut polaire pour le 20 juillet. Intéressant, mais qu'est-ce que je mets dedans moi ? 

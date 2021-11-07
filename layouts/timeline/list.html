@@ -22,7 +22,9 @@
                     <div class="date">{{ .Date.Day }} {{ index $month_names $month }} {{ .Date.Year }}</div>
                     <p style="color: {{.Params.subTitleColor}};">
                         {{.Params.Eventname}}<br>
-                        {{.Params.Eventlocation}}
+                        {{ range .Params.Eventlocation  }}
+                            {{ . }}
+                        {{ end }} 
 
                     </p> 
                 </div>

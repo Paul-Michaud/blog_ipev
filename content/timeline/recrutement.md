@@ -10,8 +10,13 @@ title: Recrutement
 titleColor: "#3b3d42"
 subTitlecolor: "#3b3d42"
 backgroundImage: /timeline/recrutement/miniature_recrutement.webp
-eventlocation: 48.3601,-4.5626
+eventlocation: 
+- 48.3601,-4.5626
 weight: 10
+tags:
+- brest
+- paris
+- recrutement
 ---
 
 ### Première partie : CV, lettre de motivation et formulaire

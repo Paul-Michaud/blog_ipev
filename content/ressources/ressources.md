@@ -57,3 +57,6 @@ https://institut-polaire.fr/fr/videos/
 
 Archipole, site contenant les archives polaire françaises, avec du contenu datant de plus de 200 ans :  
 https://www.archives-polaires.fr/
+
+Rapport d'activité de l'institut polaire pour 2018-2019, avec notamment une description des différents programmes de recherche :  
+https://institut-polaire.fr/wp-content/uploads/2021/06/ipev-ra18_fr27032020.pdf

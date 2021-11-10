@@ -84,3 +84,12 @@ div.footer__inner {
 div.footer__content {
     color: #c3c3ce"
 }
+
+/* svg location in single post*/
+.post-info svg.location {
+    margin-right: 0;
+}
+
+.post-info a.location {
+    margin-right: 0.9em;
+}

@@ -47,9 +47,6 @@ https://terreadelie-antarctique.blogspot.com
 Blog de **Paul SFEIR**, hivernant informaticien réseau à Kerguelen :  
 https://hivernage-kerguelen.monpetitdomaine.fr
 
-Blog de **May Li UY**, hivernante vétérinaire à Dumont d'Urville :  
-https://mayliuy.wixsite.com/penguin
-
 # Liens utiles
 
 Site de l'institut polaire, on y retrouve d'autres vidéos de présentation :  
